@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oCJPTUy1v/twpARhjvCdPobs9LvYtWQCLIa0eprmLnk=",
+  "Source": "IIS_API",
+  "BasePath": "_content/IIS_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
